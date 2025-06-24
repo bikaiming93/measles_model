@@ -15,8 +15,6 @@ This study evaluates the impact of the MMR vaccination strategies on measles tra
 
 ## 📂 Repository Structure
 
-## 📁 Repository Structure
-
 - `gaines_case.csv`: Reported measles cases in Gaines County.
 - `United_States_subnational_Texas_M_overall_contact_matrix_85.csv`: Age-specific contact matrix for Texas.
 - `county_baseline_0621.csv`: Simulation results for all Texas counties under the baseline scenario.
